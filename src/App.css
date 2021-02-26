@@ -1,6 +1,3 @@
-.App {
-  height: 100vh;
-}
 .top {
   width: 100vw;
   min-width: 1440px;
@@ -23,6 +20,7 @@
   font-weight: 600;
 }
 .main {
+  height: fit-content;
   display: flex;
   flex-wrap: wrap;
   width: 1200px;
